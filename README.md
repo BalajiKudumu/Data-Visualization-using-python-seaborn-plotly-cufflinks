@@ -130,8 +130,16 @@
 ![newplot (16)](https://user-images.githubusercontent.com/68863028/91266714-aa4a7000-e726-11ea-9392-871da15b2e61.png)
 
 
+## 📬 Contact
 
+Maintained by **Balaji Kudumu**  
+If you use this project in your research, please give appropriate credit.
 
+---
+
+## 📄 License
+
+MIT License - see `LICENSE` file for details.
 
 
 
